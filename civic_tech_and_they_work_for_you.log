@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  8 DEC 2019 20:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  8 DEC 2019 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -189,16 +189,64 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
+\c@tracingmulticols=\count103
+\mult@box=\box28
+\multicol@leftmargin=\dimen112
+\c@unbalance=\count104
+\c@collectmore=\count105
+\doublecol@number=\count106
+\multicoltolerance=\count107
+\multicolpretolerance=\count108
+\full@width=\dimen113
+\page@free=\dimen114
+\premulticols=\dimen115
+\postmulticols=\dimen116
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen117
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count109
+\c@finalcolumnbadness=\count110
+\last@try=\dimen118
+\multicolovershoot=\dimen119
+\multicolundershoot=\dimen120
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count111
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip48
-\thanksmargin=\skip49
-\droptitle=\skip50
+\thanksmarkwidth=\skip50
+\thanksmargin=\skip51
+\droptitle=\skip52
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen112
-\WF@size=\dimen113
-\c@WF@wrappedlines=\count103
-\WF@box=\box28
+\wrapoverhang=\dimen121
+\WF@size=\dimen122
+\c@WF@wrappedlines=\count112
+\WF@box=\box54
 \WF@everypar=\toks18
 Package: wrapfig 2003/01/31  v 3.6
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
@@ -236,16 +284,16 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
  (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
-\scratchdimen=\dimen114
-\scratchbox=\box29
-\nofMPsegments=\count105
-\nofMParguments=\count106
+\scratchcounter=\count113
+\scratchdimen=\dimen123
+\scratchbox=\box55
+\nofMPsegments=\count114
+\nofMParguments=\count115
 \everyMPshowfont=\toks19
-\MPscratchCnt=\count107
-\MPscratchDim=\dimen115
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen124
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks20
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -259,14 +307,14 @@ Package grfext Info: Graphics extension search list:
  (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box56
 Package hyperref Info: Link coloring OFF on input line 4.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count119
 )
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
@@ -277,707 +325,237 @@ LaTeX Info: Redefining \nameref on input line 4.
 
  (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/title.tex)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 6.
+(Font)              <12> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
- (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/abstract.tex) [1
+(Font)              <6> on input line 7.
+ [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.toc
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/abstract.tex) [2] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 5.
- [2])
+ [3])
 \tf@toc=\write4
 \openout4 = `civic_tech_and_they_work_for_you.toc'.
 
- [3] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.lof)
+ [4] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.lof)
 \tf@lof=\write5
 \openout5 = `civic_tech_and_they_work_for_you.lof'.
 
- [4] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/introduction.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/hacking/overview.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/open-data/overview.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/overview.tex) [5] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/aims.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/accessible-design-search-box.tex
-<images/they-work-for-you-implementation-search-box.png, id=242, 727.71875pt x 451.6875pt>
+ [5] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/introduction.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/hacking/overview.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/open-data/overview.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/overview.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/aims.tex) [6] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/accessible-design-search-box.tex
+<images/they-work-for-you-implementation-search-box.png, id=246, 727.71875pt x 451.6875pt>
 File: images/they-work-for-you-implementation-search-box.png Graphic file (type png)
 <use images/they-work-for-you-implementation-search-box.png>
 Package pdftex.def Info: images/they-work-for-you-implementation-search-box.png  used on input line 3.
-(pdftex.def)             Requested size: 145.54117pt x 90.33589pt.
-)
-Underfull \hbox (badness 1540) in paragraph at lines 8--57
-\OT1/cmr/m/n/10 picts the home page of the site,
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/accessible-design-text-only.tex [6 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-search-box.png>]
-<images/they-work-for-you-implementation-text-only-lynx.png, id=258, 1639.12375pt x 967.615pt>
+(pdftex.def)             Requested size: 218.3173pt x 135.5073pt.
+) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/accessible-design-text-only.tex
+<images/they-work-for-you-implementation-text-only-lynx.png, id=254, 1639.12375pt x 967.615pt>
 File: images/they-work-for-you-implementation-text-only-lynx.png Graphic file (type png)
 <use images/they-work-for-you-implementation-text-only-lynx.png>
-Package pdftex.def Info: images/they-work-for-you-implementation-text-only-lynx.png  used on input line 9.
-(pdftex.def)             Requested size: 163.92197pt x 96.76717pt.
-) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/permanent-urls.tex)
-<images/they-work-for-you-implementation-permanent-urls-1.png, id=263, 1154.3125pt x 457.71pt>
+Package pdftex.def Info: images/they-work-for-you-implementation-text-only-lynx.png  used on input line 7.
+(pdftex.def)             Requested size: 327.81894pt x 193.51958pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [7 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-search-box.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/permanent-urls.tex
+<images/they-work-for-you-implementation-permanent-urls-1.png, id=267, 1154.3125pt x 457.71pt>
 File: images/they-work-for-you-implementation-permanent-urls-1.png Graphic file (type png)
 <use images/they-work-for-you-implementation-permanent-urls-1.png>
-Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-1.png  used on input line 68.
-(pdftex.def)             Requested size: 577.15485pt x 228.85445pt.
+Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-1.png  used on input line 6.
+(pdftex.def)             Requested size: 346.29642pt x 137.31406pt.
 
-Overfull \hbox (387.4038pt too wide) in paragraph at lines 68--69
+Overfull \hbox (1.29642pt too wide) in paragraph at lines 6--7
  [][] 
  []
 
-
-Package wrapfig Warning: Collision between wrapping environments on input line 73.
-
-<images/they-work-for-you-implementation-permanent-urls-2.png, id=264, 1168.365pt x 302.12875pt>
+<images/they-work-for-you-implementation-permanent-urls-2.png, id=268, 1168.365pt x 302.12875pt>
 File: images/they-work-for-you-implementation-permanent-urls-2.png Graphic file (type png)
 <use images/they-work-for-you-implementation-permanent-urls-2.png>
-Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-2.png  used on input line 75.
+Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-2.png  used on input line 13.
 (pdftex.def)             Requested size: 350.5122pt x 90.63931pt.
 
-Overfull \hbox (160.76115pt too wide) in paragraph at lines 75--76
+Overfull \hbox (5.5122pt too wide) in paragraph at lines 13--14
  [][] 
  []
 
-[7 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-text-only-lynx.png>]
 
-Package wrapfig Warning: Collision between wrapping environments on input line 80.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/they-work-for-you-implementation-permanent-urls-3.png, id=275, 384.43625pt x 18.0675pt>
+[8 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-text-only-lynx.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-permanent-urls-1.png>]
+<images/they-work-for-you-implementation-permanent-urls-3.png, id=278, 384.43625pt x 18.0675pt>
 File: images/they-work-for-you-implementation-permanent-urls-3.png Graphic file (type png)
 <use images/they-work-for-you-implementation-permanent-urls-3.png>
-Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-3.png  used on input line 82.
-(pdftex.def)             Requested size: 192.21765pt x 9.03372pt.
-
-Overfull \hbox (2.4666pt too wide) in paragraph at lines 82--83
- [][] 
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/open-source.tex)
-Overfull \hbox (19.64024pt too wide) in paragraph at lines 1--90
-\OT1/cmr/m/n/10 to con-tribute to civil so-ci-ety is through
- []
-
-
-Overfull \hbox (2.39021pt too wide) in paragraph at lines 1--90
-\OT1/cmr/m/n/10 the pro-vi-sion of open source, freely
- []
-
-[8 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-permanent-urls-1.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-permanent-urls-2.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-permanent-urls-3.png>]
-<images/they-work-for-you-implementation-open-source-pombola.png, id=292, 984.67876pt x 328.22626pt>
+Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-3.png  used on input line 24.
+(pdftex.def)             Requested size: 153.77177pt x 7.22685pt.
+) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/open-source.tex
+<images/they-work-for-you-implementation-open-source-pombola.png, id=281, 984.67876pt x 328.22626pt>
 File: images/they-work-for-you-implementation-open-source-pombola.png Graphic file (type png)
 <use images/they-work-for-you-implementation-open-source-pombola.png>
-Package pdftex.def Info: images/they-work-for-you-implementation-open-source-pombola.png  used on input line 93.
-(pdftex.def)             Requested size: 393.86452pt x 131.28816pt.
-
-Overfull \hbox (204.11346pt too wide) in paragraph at lines 93--94
- [][] 
- []
-
-
-Package wrapfig Warning: Collision between wrapping environments on input line 98.
-
-<images/they-work-for-you-implementation-open-source-github.png, id=293, 1066.98625pt x 512.91624pt>
+Package pdftex.def Info: images/they-work-for-you-implementation-open-source-pombola.png  used on input line 5.
+(pdftex.def)             Requested size: 295.4059pt x 98.46863pt.
+ [9 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-permanent-urls-2.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-permanent-urls-3.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-open-source-pombola.png>]
+<images/they-work-for-you-implementation-open-source-github.png, id=291, 1066.98625pt x 512.91624pt>
 File: images/they-work-for-you-implementation-open-source-github.png Graphic file (type png)
 <use images/they-work-for-you-implementation-open-source-github.png>
-Package pdftex.def Info: images/they-work-for-you-implementation-open-source-github.png  used on input line 100.
-(pdftex.def)             Requested size: 426.78694pt x 205.16286pt.
-
-Overfull \hbox (237.03589pt too wide) in paragraph at lines 100--101
- [][] 
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/summary.tex)
-Overfull \hbox (22.97359pt too wide) in paragraph at lines 1--108
-\OT1/cmr/m/n/10 You con-tributes to civil so-ci-ety through
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/overview.tex)
-Overfull \hbox (4.05354pt too wide) in paragraph at lines 1--115
-\OT1/cmr/m/n/10 IN-SCRIBED IN THE TECH-NOL-
- []
-
-
-Overfull \hbox (4.53851pt too wide) in paragraph at lines 1--115
-\OT1/cmr/m/n/10 OGY I WOULD SUG-GEST - PRI-
- []
-
-
-Overfull \hbox (4.61023pt too wide) in paragraph at lines 1--115
-\OT1/cmr/m/n/10 EVER, THE SAME TECH-NOLO-
- []
-
-
-Overfull \hbox (9.67856pt too wide) in paragraph at lines 1--115
-\OT1/cmr/m/n/10 GIES THAT en-ABLe THOSE POS-
- []
-
-
-Overfull \hbox (4.81631pt too wide) in paragraph at lines 1--115
-\OT1/cmr/m/n/10 I-TIVE VAL-UES MAY GIVE RISE
- []
-
-
-Overfull \hbox (5.45627pt too wide) in paragraph at lines 1--115
-\OT1/cmr/m/n/10 ture of the site WHICH IT IS SUG-
- []
-
-[9 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-open-source-pombola.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-open-source-github.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/strengthen-civil-society.tex)
-Overfull \hbox (4.05354pt too wide) in paragraph at lines 1--119
-\OT1/cmr/m/n/10 IN-SCRIBED IN THE TECH-NOL-
- []
-
-
-Overfull \hbox (4.53851pt too wide) in paragraph at lines 1--119
-\OT1/cmr/m/n/10 OGY I WOULD SUG-GEST - PRI-
- []
-
-
-Overfull \hbox (4.61023pt too wide) in paragraph at lines 1--119
-\OT1/cmr/m/n/10 EVER, THE SAME TECH-NOLO-
- []
-
-
-Overfull \hbox (9.67856pt too wide) in paragraph at lines 1--119
-\OT1/cmr/m/n/10 GIES THAT en-ABLe THOSE POS-
- []
-
-
-Overfull \hbox (4.81631pt too wide) in paragraph at lines 1--119
-\OT1/cmr/m/n/10 I-TIVE VAL-UES MAY GIVE RISE
- []
-
-
-Overfull \hbox (5.45627pt too wide) in paragraph at lines 1--119
-\OT1/cmr/m/n/10 ture of the site WHICH IT IS SUG-
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/data-object.tex
-Overfull \hbox (2.8069pt too wide) in paragraph at lines 1--7
-\OT1/cmr/m/n/10 One ex-am-ple of the do-chotomy be-
- []
-
-
-Overfull \hbox (0.86241pt too wide) in paragraph at lines 1--7
-\OT1/cmr/m/n/10 tween an MPs vot-ing pat-terns and
- []
-
-
-Overfull \hbox (3.44572pt too wide) in paragraph at lines 1--7
-\OT1/cmr/m/n/10 their com-mu-nity work con-cern ....
- []
-
-
-Overfull \hbox (4.58238pt too wide) in paragraph at lines 1--7
-\OT1/cmr/m/n/10 with of-fi-cial re-ceivers IN HIS CON-
- []
-
-
-Overfull \hbox (1.69456pt too wide) in paragraph at lines 1--7
-\OT1/cmr/m/n/10 SITU Over sev-eral years - his work
- []
-
-
-Overfull \hbox (4.19467pt too wide) in paragraph at lines 1--7
-\OT1/cmr/m/n/10 top flight UK flight to whole owned
- []
-
-[10]
-Overfull \hbox (0.72356pt too wide) in paragraph at lines 8--10
-\OT1/cmr/m/n/10 he wrote about his vol-un-tary work
- []
-
-)
-Overfull \hbox (8.5569pt too wide) in paragraph at lines 11--123
-\OT1/cmr/m/n/10 com-mons And - CON-SE-QUENTLY
- []
-
-<images/they-work-for-you-ian-murray.png, id=312, 1042.89626pt x 608.2725pt>
+Package pdftex.def Info: images/they-work-for-you-implementation-open-source-github.png  used on input line 15.
+(pdftex.def)             Requested size: 320.09834pt x 153.87605pt.
+) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/implementation/summary.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/overview.tex) [10 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-implementation-open-source-github.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/strengthen-civil-society.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/data-object.tex
+<images/they-work-for-you-ian-murray.png, id=315, 1042.89626pt x 608.2725pt>
 File: images/they-work-for-you-ian-murray.png Graphic file (type png)
 <use images/they-work-for-you-ian-murray.png>
-Package pdftex.def Info: images/they-work-for-you-ian-murray.png  used on input line 126.
-(pdftex.def)             Requested size: 521.44685pt x 304.13551pt.
-
-Overfull \hbox (331.6958pt too wide) in paragraph at lines 126--127
- [][] 
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/data-object-response.tex)
-Overfull \hbox (12.50125pt too wide) in paragraph at lines 1--134
-\OT1/cmr/m/n/10 ogy - shown in the screen-shot caveats
- []
-
-<images/they-work-for-you-numerology.png, id=313, 868.24374pt x 587.19376pt>
+Package pdftex.def Info: images/they-work-for-you-ian-murray.png  used on input line 9.
+(pdftex.def)             Requested size: 312.87129pt x 182.48315pt.
+) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/data-object-response.tex
+<images/they-work-for-you-numerology.png, id=317, 868.24374pt x 587.19376pt>
 File: images/they-work-for-you-numerology.png Graphic file (type png)
 <use images/they-work-for-you-numerology.png>
-Package pdftex.def Info: images/they-work-for-you-numerology.png  used on input line 137.
-(pdftex.def)             Requested size: 434.1208pt x 293.59616pt.
-
-Overfull \hbox (244.36975pt too wide) in paragraph at lines 137--138
- [][] 
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/summary.tex) [11 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-ian-murray.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-numerology.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/users.tex)
-Overfull \hbox (2.58466pt too wide) in paragraph at lines 1--152
-\OT1/cmr/m/n/10 One of the pri-mary chal-lenge faced
- []
-
-
-Overfull \hbox (0.86246pt too wide) in paragraph at lines 1--152
-\OT1/cmr/m/n/10 gest-ing, at least aneec-do-tally, that
- []
-
-
-Overfull \hbox (4.44571pt too wide) in paragraph at lines 1--152
-\OT1/cmr/m/n/10 the site re-ceives around 20,000 user
- []
-
-
-Overfull \hbox (1.80685pt too wide) in paragraph at lines 1--152
-\OT1/cmr/m/n/10 ame-lio-rate the strength of the con-
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/web-analytics.tex)
-Overfull \hbox (10.69572pt too wide) in paragraph at lines 1--156
-\OT1/cmr/m/n/10 They Work for You site when viewed
- []
-
-
-Overfull \hbox (2.32535pt too wide) in paragraph at lines 1--156
-\OT1/cmr/m/n/10 by sec-ond ba-sis. That is, the client
- []
-
-
-Overfull \hbox (11.44574pt too wide) in paragraph at lines 1--156
-\OT1/cmr/m/n/10 or-gan-i-sa-tion do have ac-cess to statis-
- []
-
-[12]
-<images/they-work-for-you-challenges-google-analytics.png, id=330, 1268.74pt x 434.62375pt>
+Package pdftex.def Info: images/they-work-for-you-numerology.png  used on input line 3.
+(pdftex.def)             Requested size: 260.47513pt x 176.15948pt.
+ [11 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-ian-murray.png>]) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/summary.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/users.tex) [12 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-numerology.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/web-analytics.tex
+<images/they-work-for-you-challenges-google-analytics.png, id=337, 1268.74pt x 434.62375pt>
 File: images/they-work-for-you-challenges-google-analytics.png Graphic file (type png)
 <use images/they-work-for-you-challenges-google-analytics.png>
-Package pdftex.def Info: images/they-work-for-you-challenges-google-analytics.png  used on input line 159.
-(pdftex.def)             Requested size: 507.48701pt x 173.8464pt.
-
-Overfull \hbox (317.73596pt too wide) in paragraph at lines 159--160
- [][] 
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/finance.tex)
-Overfull \hbox (6.47359pt too wide) in paragraph at lines 1--167
-\OT1/cmr/m/n/10 with an ap-par-ently per-ma-nent ban-
- []
-
-
-Overfull \hbox (24.8764pt too wide) in paragraph at lines 1--167
-\OT1/cmr/m/n/10 be-ing said, and ac-cord-ing to a Guardian
- []
-
-
-Overfull \hbox (2.08472pt too wide) in paragraph at lines 1--167
-\OT1/cmr/m/n/10 you via par-ent or-gan-i-sa-tion MySo-
- []
-
-
-Overfull \hbox (0.64021pt too wide) in paragraph at lines 1--167
-\OT1/cmr/m/n/10 e-petition site can be found within
- []
-
-
-Overfull \hbox (5.00134pt too wide) in paragraph at lines 1--167
-\OT1/cmr/m/n/10 groups of in-di-vid-u-als to ac-cess data
- []
-
-<images/they-work-for-you-challenges-finance.png, id=334, 1027.84pt x 142.5325pt>
+Package pdftex.def Info: images/they-work-for-you-challenges-google-analytics.png  used on input line 3.
+(pdftex.def)             Requested size: 317.18422pt x 108.65567pt.
+) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/finance.tex
+<images/they-work-for-you-challenges-finance.png, id=340, 1027.84pt x 142.5325pt>
 File: images/they-work-for-you-challenges-finance.png Graphic file (type png)
 <use images/they-work-for-you-challenges-finance.png>
-Package pdftex.def Info: images/they-work-for-you-challenges-finance.png  used on input line 169.
-(pdftex.def)             Requested size: 411.12872pt x 57.01198pt.
-
-Overfull \hbox (221.37767pt too wide) in paragraph at lines 169--170
-[][] 
- []
-
-
-Package wrapfig Warning: Collision between wrapping environments on input line 174.
-
-<images/e-petition-site.png, id=335, 755.82375pt x 514.92375pt>
+Package pdftex.def Info: images/they-work-for-you-challenges-finance.png  used on input line 2.
+(pdftex.def)             Requested size: 308.35437pt x 42.76007pt.
+ [13 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-challenges-google-analytics.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-challenges-finance.png>]
+<images/e-petition-site.png, id=353, 755.82375pt x 514.92375pt>
 File: images/e-petition-site.png Graphic file (type png)
 <use images/e-petition-site.png>
-Package pdftex.def Info: images/e-petition-site.png  used on input line 176.
-(pdftex.def)             Requested size: 302.32414pt x 205.96585pt.
-
-Overfull \hbox (112.57309pt too wide) in paragraph at lines 176--177
- [][] 
- []
-
-[13 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-challenges-google-analytics.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/summary.tex)
-Overfull \hbox (6.2235pt too wide) in paragraph at lines 1--184
-\OT1/cmr/m/n/10 In short, two of the chal-lenges faced
- []
-
-
-Overfull \hbox (4.97353pt too wide) in paragraph at lines 1--184
-\OT1/cmr/m/n/10 pres-sures, though as men-tioned the
- []
-
-
-Overfull \hbox (6.55687pt too wide) in paragraph at lines 1--184
-\OT1/cmr/m/n/10 over-all pic-ture of their fi-nances may
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/taxonomies-civic-tech/overview.tex)
-Overfull \hbox (4.83464pt too wide) in paragraph at lines 1--192
-\OT1/cmr/m/n/10 out-come of such en-gage-ment - from
- []
-
-<images/taxonomy-sifry.png, id=345, 867.24pt x 498.86375pt>
+Package pdftex.def Info: images/e-petition-site.png  used on input line 13.
+(pdftex.def)             Requested size: 226.74887pt x 154.4783pt.
+) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/summary.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/taxonomies-civic-tech/overview.tex
+<images/taxonomy-sifry.png, id=355, 867.24pt x 498.86375pt>
 File: images/taxonomy-sifry.png Graphic file (type png)
 <use images/taxonomy-sifry.png>
-Package pdftex.def Info: images/taxonomy-sifry.png  used on input line 195.
-(pdftex.def)             Requested size: 433.61894pt x 249.43126pt.
+Package pdftex.def Info: images/taxonomy-sifry.png  used on input line 3.
+(pdftex.def)             Requested size: 346.88986pt x 199.54196pt.
 
-Overfull \hbox (243.86789pt too wide) in paragraph at lines 195--196
+Overfull \hbox (1.88986pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-[14 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-challenges-finance.png> </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/e-petition-site.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/taxonomies-civic-tech/groups.tex
-Overfull \hbox (5.38802pt too wide) in paragraph at lines 1--3
-\OT1/cmr/m/n/10 MAR-VELOUS MEANS of dis-crim-
- []
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Overfull \hbox (6.69582pt too wide) in paragraph at lines 1--3
-\OT1/cmr/m/n/10 i-nat-ing be-tween and iden-ti-fy-ing dif-
- []
-
-)
-Overfull \hbox (3.30684pt too wide) in paragraph at lines 4--203
-[]\OT1/cmr/m/n/10 For in-stance, does not DI-RECTLY
- []
-
-
-Overfull \hbox (2.36249pt too wide) in paragraph at lines 4--203
-\OT1/cmr/m/n/10 tion of group mem-ber-ship out-lined
- []
-
-
-Overfull \hbox (1.66574pt too wide) in paragraph at lines 4--203
-\OT1/cmr/m/n/10 by NOVECK NOR does is ad-dress
- []
-
-
-Overfull \hbox (5.64027pt too wide) in paragraph at lines 4--203
-\OT1/cmr/m/n/10 nolo-gies in-volved in in-di-vid-ual civic
- []
-
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/taxonomies-civic-tech/infrastructure.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/overview.tex
-Overfull \hbox (0.14009pt too wide) in paragraph at lines 1--6
-\OT1/cmr/m/n/10 tech Low Level tech-nolo-gies - such
- []
-
-
-Overfull \hbox (7.67961pt too wide) in paragraph at lines 1--6
-\OT1/cmr/m/n/10 prac-ti-cies Mov-ING FOR-WARD TO
- []
-
-
-Overfull \hbox (8.61243pt too wide) in paragraph at lines 1--6
-\OT1/cmr/m/n/10 dresses the de-sign of in-di-vid-ual civic
- []
-
-
-Overfull \hbox (1.389pt too wide) in paragraph at lines 1--6
-\OT1/cmr/m/n/10 tech projects IT then en-com-passes
- []
-
-
-Overfull \hbox (16.33463pt too wide) in paragraph at lines 1--6
-\OT1/cmr/m/n/10 the types of en-gage-ment such projects
- []
-
-[15 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/taxonomy-sifry.png>])
-Overfull \hbox (5.97363pt too wide) in paragraph at lines 7--214
-\OT1/cmr/m/n/10 tax-on-omy pro-posed by Micah Sifry.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--214
-
- []
-
-<images/taxonomy-pipeline.png, id=359, 1185.42876pt x 143.53625pt>
+) [14 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/e-petition-site.png>] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/taxonomies-civic-tech/groups.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/taxonomies-civic-tech/infrastructure.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/overview.tex
+<images/taxonomy-pipeline.png, id=362, 1185.42876pt x 143.53625pt>
 File: images/taxonomy-pipeline.png Graphic file (type png)
 <use images/taxonomy-pipeline.png>
-Package pdftex.def Info: images/taxonomy-pipeline.png  used on input line 217.
-(pdftex.def)             Requested size: 592.71292pt x 71.76794pt.
+Package pdftex.def Info: images/taxonomy-pipeline.png  used on input line 3.
+(pdftex.def)             Requested size: 355.63136pt x 43.0612pt.
 
-Overfull \hbox (402.96187pt too wide) in paragraph at lines 217--218
+Overfull \hbox (10.63136pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-(/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/wikipedia.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/further-research.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/summary.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/conclusion.tex) [16 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/taxonomy-pipeline.png>] [17] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.bbl
+[15 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/taxonomy-sifry.png>]
+Overfull \hbox (17.5563pt too wide) in paragraph at lines 8--14
+[]\OT1/cmr/m/n/10 The di-a-gram within Fig-ure fig:taxonomy-pipeline repres-nts an al-ter-na-tive, 'pipeline',
+ []
+
+) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/wikipedia.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/further-research.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/pipeline-taxonomy/summary.tex) (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/conclusion.tex) [16 </Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/taxonomy-pipeline.png>] [17] (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.bbl
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 5.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
-[]\OT1/cmr/m/n/10 ``Uk post-codes.'' []$\OT1/pcr/m/n/10 https :
+Underfull \hbox (badness 2608) in paragraph at lines 4--6
+[]\OT1/cmr/m/n/10 ``Uk post-codes.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Postcodes _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
-\OT1/pcr/m/n/10 / / en . wikipedia . org / wiki /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
-\OT1/pcr/m/n/10 Postcodes _ in _ the _ United _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[]\OT1/cmr/m/n/10 ``Lynx browser.'' []$\OT1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-\OT1/pcr/m/n/10 / / en . wikipedia . org / wiki /
+Underfull \hbox (badness 1910) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/10 ``Lynx browser.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Lynx _ (web _
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--13
-[]\OT1/cmr/m/n/10 ``Browser
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-\OT1/cmr/m/n/10 his-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-\OT1/cmr/m/n/10 tory.''
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-[]$\OT1/pcr/m/n/10 https : / /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-\OT1/pcr/m/n/10 crossbrowsertesting .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-\OT1/pcr/m/n/10 com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-\OT1/pcr/m/n/10 blog /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
-\OT1/pcr/m/n/10 test-[]automation /
- []
-
-
-Overfull \hbox (3.02884pt too wide) in paragraph at lines 11--13
-\OT1/pcr/m/n/10 history-[]of-[]web-[]browsers/$[]\OT1/cmr/m/n/10 . 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-[]\OT1/cmr/m/n/10 ``Tim bern-ers lee.'' []$\OT1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\OT1/pcr/m/n/10 / / www . w3 . org / People /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[]\OT1/cmr/m/n/10 ``Mysociety github page.''
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-[]$\OT1/pcr/m/n/10 https : / / github . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-[]\OT1/cmr/m/n/10 ``Github.'' []$\OT1/pcr/m/n/10 https : / / github .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-[]\OT1/cmr/m/n/10 ``Omidyar net-work.'' []$\OT1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-\OT1/pcr/m/n/10 / / en . wikipedia . org / wiki /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-[]\OT1/cmr/m/n/10 ``Ebay.'' []$\OT1/pcr/m/n/10 https : / / en .
+[]\OT1/cmr/m/n/10 ``Browser his-tory.'' []$\OT1/pcr/m/n/10 https : / / crossbrowsertesting . com / blog /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
-[]\OT1/cmr/m/n/10 ``Pierre omid-yar.'' []$\OT1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-\OT1/pcr/m/n/10 / / en . wikipedia . org / wiki /
+[]\OT1/cmr/m/n/10 ``Pierre omid-yar.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Pierre _
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--35
-[]\OT1/cmr/m/n/10 ``Tim
+[]\OT1/cmr/m/n/10 ``Tim bern-ers lee.'' []$\OT1/pcr/m/n/10 https : / / www . wired . com / story /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/cmr/m/n/10 bern-
+Underfull \hbox (badness 7759) in paragraph at lines 37--39
+[]\OT1/cmr/m/n/10 ``Ian mur-ray.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Ian _ Murray _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/cmr/m/n/10 ers lee.''
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[]\OT1/cmr/m/n/10 ``Bbc par-lia-ment chan-nel.'' []$\OT1/pcr/m/n/10 https : / / www . bbc . co . uk / tv /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-[]$\OT1/pcr/m/n/10 https :
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+[]\OT1/cmr/m/n/10 ``This is our story (ian mur-ray).'' []$\OT1/pcr/m/n/10 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/pcr/m/n/10 / / www .
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+\OT1/pcr/m/n/10 heartsdirect . co . uk / item / 2235 / GiftsMerchandise /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/pcr/m/n/10 wired .
+Underfull \hbox (badness 2012) in paragraph at lines 52--54
+[]\OT1/cmr/m/n/10 ``Alexa rank for they work for you.'' []$\OT1/pcr/m/n/10 https : / / www . alexa . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/pcr/m/n/10 com /
+Underfull \hbox (badness 7379) in paragraph at lines 56--57
+[]\OT1/cmr/m/n/10 ``Google an-a-lyt-ics.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Google _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/pcr/m/n/10 story /
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+[]\OT1/cmr/m/n/10 ``Guardian in-ter-view with tom stein-berg.'' []$\OT1/pcr/m/n/10 https : / /
  []
 
 
-Overfull \hbox (57.02884pt too wide) in paragraph at lines 33--35
-\OT1/pcr/m/n/10 microsoft-[]github-[]code-[]moderation/$[]\OT1/cmr/m/n/10 . 
- []
-
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
-[]\OT1/cmr/m/n/10 ``Alexa rank for they work
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
-\OT1/cmr/m/n/10 for you.'' []$\OT1/pcr/m/n/10 https : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--39
-\OT1/pcr/m/n/10 alexa . com / siteinfo /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-[]\OT1/cmr/m/n/10 ``Google an-a-lyt-ics.'' []$\OT1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-\OT1/pcr/m/n/10 / / en . wikipedia . org / wiki /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-[]\OT1/cmr/m/n/10 ``Guardian in-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/cmr/m/n/10 ter-view with
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/cmr/m/n/10 tom stein-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/cmr/m/n/10 berg.'' []$\OT1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/pcr/m/n/10 / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/pcr/m/n/10 theguardian .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/pcr/m/n/10 com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/pcr/m/n/10 technology /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-\OT1/pcr/m/n/10 2008 / oct / 23 /
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+\OT1/pcr/m/n/10 www . theguardian . com / technology / 2008 / oct / 23 /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
- [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
  (/Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 166.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
 Package rerunfilecheck Info: File `civic_tech_and_they_work_for_you.out' has not changed.
 (rerunfilecheck)             Checksum: B52D68EC5DED7EF2A9A89FEF83B831E6;2160.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
  ) 
 Here is how much of TeX's memory you used:
- 6661 strings out of 492649
- 108671 string characters out of 6129622
- 196337 words of memory out of 5000000
- 10246 multiletter control sequences out of 15000+600000
+ 6782 strings out of 492649
+ 110528 string characters out of 6129622
+ 204181 words of memory out of 5000000
+ 10361 multiletter control sequences out of 15000+600000
  9364 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,6n,35p,917b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,7n,35p,901b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.pdf (19 pages, 4360315 bytes).
+Output written on /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/civic_tech_and_they_work_for_you.pdf (18 pages, 4361545 bytes).
 PDF statistics:
- 483 PDF objects out of 1000 (max. 8388607)
- 420 compressed objects within 5 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 471 PDF objects out of 1000 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 89 named destinations out of 1000 (max. 500000)
  375 words of extra memory for PDF output out of 10000 (max. 10000000)
 
