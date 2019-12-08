@@ -1,0 +1,37 @@
+\babel@toc {english}{}
+\contentsline {section}{List of figures}{4}{section*.1}
+\contentsline {section}{Introduction}{5}{section*.2}
+\contentsline {section}{Civic hacking}{5}{section*.3}
+\contentsline {subsection}{Overview}{5}{section*.4}
+\contentsline {section}{Open data}{5}{section*.5}
+\contentsline {subsection}{Overview}{5}{section*.6}
+\contentsline {section}{They Work for You}{5}{section*.7}
+\contentsline {subsection}{Overview}{5}{section*.8}
+\contentsline {subsection}{Aims}{6}{section*.9}
+\contentsline {subsection}{Implementation}{6}{section*.10}
+\contentsline {subsubsection}{Accessible design: search box}{6}{section*.11}
+\contentsline {subsubsection}{Accessible design: text only}{6}{figure.1}
+\contentsline {subsubsection}{Permanent URLs}{7}{figure.2}
+\contentsline {subsubsection}{Open source}{7}{figure.5}
+\contentsline {subsubsection}{Summary}{8}{figure.7}
+\contentsline {subsection}{Values}{8}{section*.16}
+\contentsline {subsubsection}{Overview}{8}{section*.17}
+\contentsline {subsubsection}{Strengthen civil society}{8}{section*.18}
+\contentsline {subsubsection}{Data object}{9}{section*.19}
+\contentsline {subsubsection}{Data object: response}{10}{figure.8}
+\contentsline {subsubsection}{Summary}{10}{figure.9}
+\contentsline {subsection}{Challenges}{10}{section*.22}
+\contentsline {subsubsection}{Users}{10}{section*.23}
+\contentsline {subsubsection}{Finance}{11}{figure.10}
+\contentsline {subsubsection}{Summary}{12}{figure.12}
+\contentsline {section}{Taxonomies of civic technology}{12}{section*.26}
+\contentsline {subsection}{Overview}{13}{section*.27}
+\contentsline {subsection}{Groups}{13}{figure.13}
+\contentsline {subsection}{Infrastructure}{14}{section*.29}
+\contentsline {section}{Pipeline taxonomy}{15}{section*.30}
+\contentsline {subsection}{Overview}{15}{section*.31}
+\contentsline {subsection}{Wikipedia}{15}{figure.14}
+\contentsline {subsection}{Further research}{16}{section*.33}
+\contentsline {subsection}{Summary}{16}{section*.34}
+\contentsline {section}{Conclusion}{16}{section*.35}
+\contentsline {section}{Appendix}{17}{section*.36}
