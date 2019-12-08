@@ -3,36 +3,36 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: civic_tech_and_they_work_for_you.aux
 The style file: ieeetr.bst
 Database file #1: references.bib
-You've used 10 entries,
+You've used 13 entries,
             1876 wiz_defined-function locations,
-            506 strings with 4274 characters,
-and the built_in function-call counts, 1034 in all, are:
-= -- 90
-> -- 10
+            515 strings with 4606 characters,
+and the built_in function-call counts, 1337 in all, are:
+= -- 117
+> -- 13
 < -- 0
-+ -- 10
++ -- 13
 - -- 0
-* -- 32
-:= -- 103
-add.period$ -- 10
-call.type$ -- 10
-change.case$ -- 10
+* -- 41
+:= -- 130
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 10
-duplicate$ -- 40
-empty$ -- 181
+cite$ -- 13
+duplicate$ -- 52
+empty$ -- 235
 format.name$ -- 0
-if$ -- 291
+if$ -- 378
 int.to.chr$ -- 0
-int.to.str$ -- 10
+int.to.str$ -- 13
 missing$ -- 0
-newline$ -- 33
+newline$ -- 42
 num.names$ -- 0
-pop$ -- 60
+pop$ -- 78
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 59
+skip$ -- 77
 stack$ -- 0
 substring$ -- 0
 swap$ -- 0
@@ -42,5 +42,5 @@ top$ -- 0
 type$ -- 0
 warning$ -- 0
 while$ -- 0
-width$ -- 12
-write$ -- 62
+width$ -- 15
+write$ -- 80

@@ -70,6 +70,8 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/titling/titling.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -193,6 +195,8 @@ INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sec
 INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/values/summary.tex
 INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/users.tex
 INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/users.tex
+INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/web-analytics.tex
+INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/sections/they-work-for-you/challenges/web-analytics.tex
 INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-challenges-google-analytics.png
 INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-challenges-google-analytics.png
 INPUT /Users/joestrachan/Documents/code/civic/assessments/assessment_5/essay/images/they-work-for-you-challenges-google-analytics.png
