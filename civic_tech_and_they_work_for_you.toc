@@ -11,18 +11,18 @@
 \contentsline {subsection}{Implementation}{6}{section*.10}
 \contentsline {subsubsection}{Accessible design: search box}{6}{section*.11}
 \contentsline {subsubsection}{Accessible design: text only}{6}{figure.1}
-\contentsline {subsubsection}{Permanent URLs}{7}{figure.2}
+\contentsline {subsubsection}{Permanent URLs}{6}{figure.2}
 \contentsline {subsubsection}{Open source}{7}{figure.5}
 \contentsline {subsubsection}{Summary}{8}{figure.7}
 \contentsline {subsection}{Values}{8}{section*.16}
 \contentsline {subsubsection}{Overview}{8}{section*.17}
-\contentsline {subsubsection}{Strengthen civil society}{8}{section*.18}
+\contentsline {subsubsection}{Strengthen civil society}{9}{section*.18}
 \contentsline {subsubsection}{Data object}{9}{section*.19}
 \contentsline {subsubsection}{Data object: response}{10}{figure.8}
 \contentsline {subsubsection}{Summary}{10}{figure.9}
 \contentsline {subsection}{Challenges}{10}{section*.22}
-\contentsline {subsubsection}{Users}{10}{section*.23}
-\contentsline {subsubsection}{Finance}{11}{figure.10}
+\contentsline {subsubsection}{Users}{11}{section*.23}
+\contentsline {subsubsection}{Finance}{12}{figure.10}
 \contentsline {subsubsection}{Summary}{12}{figure.12}
 \contentsline {section}{Taxonomies of civic technology}{12}{section*.26}
 \contentsline {subsection}{Overview}{13}{section*.27}
@@ -35,3 +35,4 @@
 \contentsline {subsection}{Summary}{16}{section*.34}
 \contentsline {section}{Conclusion}{16}{section*.35}
 \contentsline {section}{Appendix}{17}{section*.36}
+\contentsline {section}{References}{18}{section*.37}

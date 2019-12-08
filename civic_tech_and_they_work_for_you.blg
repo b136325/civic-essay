@@ -1,39 +1,38 @@
 This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: civic_tech_and_they_work_for_you.aux
-I found no \citation commands---while reading file civic_tech_and_they_work_for_you.aux
-I found no \bibdata command---while reading file civic_tech_and_they_work_for_you.aux
-I found no \bibstyle command---while reading file civic_tech_and_they_work_for_you.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 538 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
+The style file: ieeetr.bst
+Database file #1: references.bib
+You've used 10 entries,
+            1876 wiz_defined-function locations,
+            506 strings with 4274 characters,
+and the built_in function-call counts, 1034 in all, are:
+= -- 90
+> -- 10
 < -- 0
-+ -- 0
++ -- 10
 - -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+* -- 32
+:= -- 103
+add.period$ -- 10
+call.type$ -- 10
+change.case$ -- 10
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
+cite$ -- 10
+duplicate$ -- 40
+empty$ -- 181
 format.name$ -- 0
-if$ -- 0
+if$ -- 291
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 10
 missing$ -- 0
-newline$ -- 0
+newline$ -- 33
 num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
+pop$ -- 60
+preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 0
+skip$ -- 59
 stack$ -- 0
 substring$ -- 0
 swap$ -- 0
@@ -43,6 +42,5 @@ top$ -- 0
 type$ -- 0
 warning$ -- 0
 while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+width$ -- 12
+write$ -- 62
