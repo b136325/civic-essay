@@ -2,38 +2,34 @@
 \contentsline {section}{List of figures}{5}{section*.1}
 \contentsline {section}{Introduction}{6}{section*.2}
 \contentsline {section}{Civic hacking}{6}{section*.3}
-\contentsline {subsection}{Overview}{6}{section*.4}
-\contentsline {section}{Open data}{6}{section*.5}
-\contentsline {subsection}{Overview}{6}{section*.6}
-\contentsline {section}{They Work for You}{7}{section*.7}
-\contentsline {subsection}{Overview}{7}{section*.8}
-\contentsline {subsection}{Aims}{7}{section*.9}
-\contentsline {subsection}{Implementation}{7}{section*.10}
-\contentsline {subsubsection}{Accessible design: search box}{7}{section*.11}
-\contentsline {subsubsection}{Accessible design: text only}{8}{figure.1}
-\contentsline {subsubsection}{Permanent URLs}{8}{figure.2}
-\contentsline {subsubsection}{Open source}{9}{figure.4}
-\contentsline {subsubsection}{Summary}{9}{figure.6}
-\contentsline {subsection}{Values}{10}{section*.16}
-\contentsline {subsubsection}{Overview}{10}{section*.17}
-\contentsline {subsubsection}{Strengthen civil society}{10}{section*.18}
-\contentsline {subsubsection}{Data object}{11}{section*.19}
-\contentsline {subsubsection}{Data object: response}{12}{figure.7}
-\contentsline {subsubsection}{Summary}{13}{figure.8}
-\contentsline {subsection}{Challenges}{13}{section*.22}
-\contentsline {subsubsection}{Users}{13}{section*.23}
-\contentsline {subsubsection}{Web analytics}{13}{section*.24}
-\contentsline {subsubsection}{Finance}{14}{figure.9}
-\contentsline {subsubsection}{Summary}{14}{figure.11}
-\contentsline {section}{Taxonomies of civic technology}{15}{section*.27}
-\contentsline {subsection}{Overview}{15}{section*.28}
-\contentsline {subsection}{Groups}{16}{figure.12}
-\contentsline {subsection}{Infrastructure}{16}{section*.30}
-\contentsline {section}{Pipeline taxonomy}{16}{section*.31}
-\contentsline {subsection}{Overview}{16}{section*.32}
-\contentsline {subsection}{Wikipedia}{17}{figure.13}
-\contentsline {subsection}{Further research}{18}{section*.34}
-\contentsline {subsection}{Summary}{18}{section*.35}
-\contentsline {section}{Conclusion}{18}{section*.36}
-\contentsline {section}{Appendix}{19}{section*.37}
-\contentsline {section}{References}{20}{section*.38}
+\contentsline {section}{Open data}{6}{section*.4}
+\contentsline {section}{They Work for You}{7}{section*.5}
+\contentsline {subsection}{Overview}{7}{section*.6}
+\contentsline {subsection}{Aims}{7}{section*.7}
+\contentsline {subsection}{Implementation}{8}{section*.8}
+\contentsline {subsubsection}{Accessible design: search box}{8}{section*.9}
+\contentsline {subsubsection}{Accessible design: text only}{8}{section*.10}
+\contentsline {subsubsection}{Permanent URLs}{8}{section*.11}
+\contentsline {subsubsection}{Open source}{9}{section*.12}
+\contentsline {subsubsection}{Summary}{9}{section*.13}
+\contentsline {subsection}{Values}{9}{section*.14}
+\contentsline {subsection}{Challenges}{10}{section*.15}
+\contentsline {subsubsection}{Finance}{10}{section*.16}
+\contentsline {subsubsection}{Users}{10}{section*.17}
+\contentsline {subsubsection}{Data object}{10}{section*.18}
+\contentsline {subsubsection}{Data object: response}{11}{section*.19}
+\contentsline {subsubsection}{Summary}{11}{section*.20}
+\contentsline {section}{Taxonomies of civic technology}{11}{section*.21}
+\contentsline {subsection}{Overview}{11}{section*.22}
+\contentsline {subsection}{Groups}{11}{section*.23}
+\contentsline {subsection}{Infrastructure}{12}{section*.24}
+\contentsline {section}{Pipeline taxonomy}{12}{section*.25}
+\contentsline {subsection}{Overview}{12}{section*.26}
+\contentsline {subsection}{Wikipedia}{12}{section*.27}
+\contentsline {subsection}{Further research}{13}{section*.28}
+\contentsline {subsection}{Summary}{14}{section*.29}
+\contentsline {section}{Conclusion}{14}{section*.30}
+\contentsline {section}{Appendix}{15}{section*.31}
+\contentsline {subsection}{References}{15}{section*.32}
+\contentsline {subsection}{Web analytics}{16}{section*.33}
+\contentsline {subsection}{Figures}{17}{section*.34}
