@@ -20,12 +20,12 @@
 \contentsline {subsubsection}{Data object: response}{11}{section*.19}
 \contentsline {subsubsection}{Summary}{11}{section*.20}
 \contentsline {section}{Taxonomies of civic technology}{11}{section*.21}
-\contentsline {subsection}{Overview}{11}{section*.22}
-\contentsline {subsection}{Groups}{11}{section*.23}
+\contentsline {subsection}{Overview}{12}{section*.22}
+\contentsline {subsection}{Groups}{12}{section*.23}
 \contentsline {subsection}{Infrastructure}{12}{section*.24}
 \contentsline {section}{Pipeline taxonomy}{12}{section*.25}
 \contentsline {subsection}{Overview}{12}{section*.26}
-\contentsline {subsection}{Wikipedia}{12}{section*.27}
+\contentsline {subsection}{Wikipedia}{13}{section*.27}
 \contentsline {subsection}{Further research}{13}{section*.28}
 \contentsline {subsection}{Summary}{14}{section*.29}
 \contentsline {section}{Conclusion}{14}{section*.30}
