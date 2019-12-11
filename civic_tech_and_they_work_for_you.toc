@@ -5,18 +5,18 @@
 \contentsline {section}{Open data}{6}{section*.4}
 \contentsline {section}{They Work for You}{7}{section*.5}
 \contentsline {subsection}{Overview}{7}{section*.6}
-\contentsline {subsection}{Aims}{7}{section*.7}
+\contentsline {subsection}{Aims}{8}{section*.7}
 \contentsline {subsection}{Implementation}{8}{section*.8}
 \contentsline {subsubsection}{Accessible design: search box}{8}{section*.9}
 \contentsline {subsubsection}{Accessible design: text only}{8}{section*.10}
-\contentsline {subsubsection}{Permanent URLs}{8}{section*.11}
+\contentsline {subsubsection}{Permanent URLs}{9}{section*.11}
 \contentsline {subsubsection}{Open source}{9}{section*.12}
 \contentsline {subsubsection}{Summary}{9}{section*.13}
-\contentsline {subsection}{Values}{9}{section*.14}
+\contentsline {subsection}{Values}{10}{section*.14}
 \contentsline {subsection}{Challenges}{10}{section*.15}
 \contentsline {subsubsection}{Finance}{10}{section*.16}
 \contentsline {subsubsection}{Users}{10}{section*.17}
-\contentsline {subsubsection}{Data object}{10}{section*.18}
+\contentsline {subsubsection}{Data object}{11}{section*.18}
 \contentsline {subsubsection}{Data object: response}{11}{section*.19}
 \contentsline {subsubsection}{Summary}{11}{section*.20}
 \contentsline {section}{Taxonomies of civic technology}{11}{section*.21}
