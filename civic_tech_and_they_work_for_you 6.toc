@@ -1,0 +1,37 @@
+\babel@toc {english}{}
+\contentsline {section}{List of figures}{5}{section*.1}
+\contentsline {section}{Introduction}{6}{section*.2}
+\contentsline {section}{Open data}{6}{section*.3}
+\contentsline {section}{They Work for You}{7}{section*.4}
+\contentsline {subsection}{Overview}{7}{section*.5}
+\contentsline {subsection}{Aims}{7}{section*.6}
+\contentsline {subsection}{Implementation}{7}{section*.7}
+\contentsline {subsubsection}{Accessible design: search box}{8}{section*.8}
+\contentsline {subsubsection}{Accessible design: text only}{8}{section*.9}
+\contentsline {subsubsection}{Permanent URLs}{8}{section*.10}
+\contentsline {subsubsection}{Open source}{8}{section*.11}
+\contentsline {subsubsection}{Summary}{9}{section*.12}
+\contentsline {subsection}{Values}{9}{section*.13}
+\contentsline {subsection}{Challenges}{9}{section*.14}
+\contentsline {subsubsection}{Finance}{9}{section*.15}
+\contentsline {subsubsection}{Users}{10}{section*.16}
+\contentsline {subsubsection}{Data object}{10}{section*.17}
+\contentsline {subsubsection}{Data object: response}{10}{section*.18}
+\contentsline {subsubsection}{Summary}{10}{section*.19}
+\contentsline {section}{Taxonomies of civic technology}{10}{section*.20}
+\contentsline {subsection}{Overview}{11}{section*.21}
+\contentsline {subsection}{Groups}{11}{section*.22}
+\contentsline {subsection}{Infrastructure}{11}{section*.23}
+\contentsline {section}{Pipeline taxonomy}{11}{section*.24}
+\contentsline {subsection}{Overview}{12}{section*.25}
+\contentsline {subsection}{Wikipedia}{12}{section*.26}
+\contentsline {subsection}{Further research}{12}{section*.27}
+\contentsline {subsection}{Summary}{13}{section*.28}
+\contentsline {section}{Conclusion}{13}{section*.29}
+\contentsline {section}{Appendix}{14}{section*.30}
+\contentsline {subsection}{References}{14}{section*.31}
+\contentsline {subsection}{1. Lynx browser}{17}{section*.32}
+\contentsline {subsection}{2. Pombola}{18}{section*.33}
+\contentsline {subsection}{3. Analytics}{19}{section*.34}
+\contentsline {subsection}{4. Ian Murray}{20}{section*.35}
+\contentsline {subsection}{5. Figures}{21}{section*.36}
