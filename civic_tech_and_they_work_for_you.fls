@@ -146,9 +146,6 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.toc
-INPUT /Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.toc
-INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT /Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.toc
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.lof
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.lof
@@ -163,6 +160,7 @@ INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-fo
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/overview.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/aims.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/aims.tex
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/accessible-design-search-box.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/accessible-design-search-box.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/accessible-design-text-only.tex
@@ -179,8 +177,6 @@ INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-fo
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/data-object.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/data-object-response.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/data-object-response.tex
-INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/challenges/summary.tex
-INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/challenges/summary.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/overview.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/overview.tex
 INPUT /Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/groups.tex

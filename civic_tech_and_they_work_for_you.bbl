@@ -46,9 +46,6 @@
 \bibitem{open-data-licence}
 ``Open data licence (uk government).'' \url{https://data.gov.uk/terms}.
 
-\bibitem{tim-berners-lee}
-``Tim berners lee.'' \url{https://www.w3.org/People/Berners-Lee/}.
-
 \bibitem{api}
 ``Application programming interface (api).''
   \url{https://en.wikipedia.org/wiki/Application_programming_interface}.
@@ -56,9 +53,6 @@
 \bibitem{postcodes-uk}
 ``Uk postcodes.''
   \url{https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom}.
-
-\bibitem{jeremy-corbyn-wiki}
-``Wiki: Jeremy corbyn.'' \url{https://en.wikipedia.org/wiki/Jeremy_Corbyn}.
 
 \bibitem{web-2.0-technologies}
 ``Web 2.0 technologies.''
@@ -128,6 +122,9 @@
 \bibitem{browser-history}
 ``Browser history.''
   \url{https://crossbrowsertesting.com/blog/test-automation/history-of-web-browsers/}.
+
+\bibitem{tim-berners-lee}
+``Tim berners lee.'' \url{https://www.w3.org/People/Berners-Lee/}.
 
 \bibitem{google-analytics}
 ``Google analytics.'' \url{https://en.wikipedia.org/wiki/Google_Analytics}.

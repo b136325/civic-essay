@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  13 DEC 2019 01:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  13 DEC 2019 10:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -354,20 +354,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
  [1
 
-{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/abstract.tex) [2] (/Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
- [3])
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/abstract.tex) [2]
+No file civic_tech_and_they_work_for_you.toc.
 \tf@toc=\write4
 \openout4 = `civic_tech_and_they_work_for_you.toc'.
 
- [4] (/Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.lof)
+[3] (/Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.lof
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
 \tf@lof=\write5
 \openout5 = `civic_tech_and_they_work_for_you.lof'.
 
- [5] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/introduction.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/open-data/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/overview.tex) [6] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/aims.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/accessible-design-search-box.tex) [7] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/accessible-design-text-only.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/permanent-urls.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/open-source.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/summary.tex) [8] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/data-object.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/data-object-response.tex) [9] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/challenges/summary.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/groups.tex) [10] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/infrastructure.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/wikipedia.tex) [11] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/further-research.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/summary.tex) [12] (/Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.bbl
+ [4] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/introduction.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/open-data/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/overview.tex) [5] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/aims.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/accessible-design-search-box.tex) [6] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/accessible-design-text-only.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/permanent-urls.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/open-source.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/implementation/summary.tex) [7] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/data-object.tex) [8] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/they-work-for-you/values/data-object-response.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/groups.tex) [9] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/taxonomies-civic-tech/infrastructure.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/overview.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/wikipedia.tex) [10] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/further-research.tex) (/Users/joestrachan/Documents/code/civics/civic-essay/sections/pipeline-taxonomy/summary.tex) [11] (/Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.bbl
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 4.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -387,129 +388,124 @@ Underfull \hbox (badness 3323) in paragraph at lines 43--45
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 57--59
+Underfull \hbox (badness 2608) in paragraph at lines 54--56
 []\OT1/cmr/m/n/10 ``Uk post-codes.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Postcodes _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-[]\OT1/cmr/m/n/10 ``Wiki: Jeremy cor-byn.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki /
- []
-
-
-Underfull \hbox (badness 7759) in paragraph at lines 78--80
+Underfull \hbox (badness 7759) in paragraph at lines 72--74
 []\OT1/cmr/m/n/10 ``Ian mur-ray.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Ian _ Murray _
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 []\OT1/cmr/m/n/10 ``Bbc par-lia-ment chan-nel.'' []$\OT1/pcr/m/n/10 https : / / www . bbc . co . uk / tv /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 []\OT1/cmr/m/n/10 ``This is our story (ian mur-ray).'' []$\OT1/pcr/m/n/10 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 \OT1/pcr/m/n/10 heartsdirect . co . uk / item / 2235 / GiftsMerchandise /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 []\OT1/cmr/m/n/10 ``Micah sifry: Tax-on-omy of civic tech.''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 []$\OT1/pcr/m/n/10 http : / / techpresident . com / news / 25261 /
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 97--99
+Underfull \hbox (badness 2913) in paragraph at lines 91--93
 []\OT1/cmr/m/n/10 ``Beth si-mone noveck: A democ-racy of groups.'' []$\OT1/pcr/m/n/10 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
 \OT1/pcr/m/n/10 firstmonday . org / ojs / index . php / fm / article / view / 1289 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--103
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
 []\OT1/cmr/m/n/10 ``Tom stein-berg: blog post about civic power.''
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--103
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
 []$\OT1/pcr/m/n/10 https : / / www . mysociety . org / 2014 / 09 / 08 /
  []
 
 
-Overfull \hbox (13.83339pt too wide) in paragraph at lines 101--103
+Overfull \hbox (13.83339pt too wide) in paragraph at lines 95--97
 \OT1/pcr/m/n/10 civic-[]tech-[]has-[]won-[]the-[]name-[]game-[]but-[]what-[]does-[]it-[]mean/$[]\OT1/cmr/m/n/10 . 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 []\OT1/cmr/m/n/10 ``Foia re-quests 2017.'' []$\OT1/pcr/m/n/10 https : / / www . justice . gov / oip / blog /
  []
 
 
-Overfull \hbox (5.83339pt too wide) in paragraph at lines 122--124
+Overfull \hbox (5.83339pt too wide) in paragraph at lines 116--118
 \OT1/pcr/m/n/10 summary-[]fiscal-[]year-[]2017-[]annual-[]foia-[]reports-[]published$[]\OT1/cmr/m/n/10 . 
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 126--127
+Underfull \hbox (badness 1910) in paragraph at lines 120--121
 []\OT1/cmr/m/n/10 ``Lynx browser.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Lynx _ (web _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
 []\OT1/cmr/m/n/10 ``Browser his-tory.'' []$\OT1/pcr/m/n/10 https : / / crossbrowsertesting . com / blog /
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 133--134
+Underfull \hbox (badness 7379) in paragraph at lines 130--131
 []\OT1/cmr/m/n/10 ``Google an-a-lyt-ics.'' []$\OT1/pcr/m/n/10 https : / / en . wikipedia . org / wiki / Google _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
 []\OT1/cmr/m/n/10 ``Guardian in-ter-view with tom stein-berg.'' []$\OT1/pcr/m/n/10 https : / /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
 \OT1/pcr/m/n/10 www . theguardian . com / technology / 2008 / oct / 23 /
  []
 
-[14]
-Underfull \hbox (badness 2012) in paragraph at lines 140--142
+[13]
+Underfull \hbox (badness 2012) in paragraph at lines 137--139
 []\OT1/cmr/m/n/10 ``Alexa rank for they work for you.'' []$\OT1/pcr/m/n/10 https : / / www . alexa . com /
  []
 
-) [15]
+) [14]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 125.
+(hyperref)                be the same. Added a new anchor on input line 121.
 
-(/Users/joestrachan/Documents/code/civics/civic-essay/appendix/foia.tex) [16] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/lynx-browser.tex) [17] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/pombola.tex) [18] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/analytics.tex) [19] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/finance.tex) [20] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/users.tex) [21] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-1.tex
-<images/they-work-for-you-implementation-search-box.png, id=475, 727.71875pt x 451.6875pt>
+(/Users/joestrachan/Documents/code/civics/civic-essay/appendix/foia.tex) [15] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/lynx-browser.tex) [16] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/pombola.tex) [17] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/analytics.tex) [18] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/finance.tex) [19] (/Users/joestrachan/Documents/code/civics/civic-essay/appendix/users.tex) [20] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-1.tex
+<images/they-work-for-you-implementation-search-box.png, id=427, 727.71875pt x 451.6875pt>
 File: images/they-work-for-you-implementation-search-box.png Graphic file (type png)
 <use images/they-work-for-you-implementation-search-box.png>
 Package pdftex.def Info: images/they-work-for-you-implementation-search-box.png  used on input line 3.
 (pdftex.def)             Requested size: 218.3173pt x 135.5073pt.
-) [22 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-search-box.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-2.tex
-<images/they-work-for-you-implementation-text-only-lynx.png, id=483, 1639.12375pt x 967.615pt>
+) [21 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-search-box.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-2.tex
+<images/they-work-for-you-implementation-text-only-lynx.png, id=435, 1639.12375pt x 967.615pt>
 File: images/they-work-for-you-implementation-text-only-lynx.png Graphic file (type png)
 <use images/they-work-for-you-implementation-text-only-lynx.png>
 Package pdftex.def Info: images/they-work-for-you-implementation-text-only-lynx.png  used on input line 3.
 (pdftex.def)             Requested size: 327.81894pt x 193.51958pt.
-) [23 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-text-only-lynx.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-3.tex
-<images/they-work-for-you-implementation-permanent-urls-1.png, id=489, 1154.3125pt x 457.71pt>
+) [22 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-text-only-lynx.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-3.tex
+<images/they-work-for-you-implementation-permanent-urls-1.png, id=441, 1154.3125pt x 457.71pt>
 File: images/they-work-for-you-implementation-permanent-urls-1.png Graphic file (type png)
 <use images/they-work-for-you-implementation-permanent-urls-1.png>
 Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-1.png  used on input line 3.
@@ -519,8 +515,8 @@ Overfull \hbox (1.29642pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-) [24 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-permanent-urls-1.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-4.tex
-<images/they-work-for-you-implementation-permanent-urls-2.png, id=496, 1168.365pt x 302.12875pt>
+) [23 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-permanent-urls-1.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-4.tex
+<images/they-work-for-you-implementation-permanent-urls-2.png, id=447, 1168.365pt x 302.12875pt>
 File: images/they-work-for-you-implementation-permanent-urls-2.png Graphic file (type png)
 <use images/they-work-for-you-implementation-permanent-urls-2.png>
 Package pdftex.def Info: images/they-work-for-you-implementation-permanent-urls-2.png  used on input line 3.
@@ -530,50 +526,50 @@ Overfull \hbox (5.5122pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-) [25 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-permanent-urls-2.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-5.tex
-<images/they-work-for-you-implementation-open-source-pombola.png, id=503, 984.67876pt x 328.22626pt>
+) [24 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-permanent-urls-2.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-5.tex
+<images/they-work-for-you-implementation-open-source-pombola.png, id=453, 984.67876pt x 328.22626pt>
 File: images/they-work-for-you-implementation-open-source-pombola.png Graphic file (type png)
 <use images/they-work-for-you-implementation-open-source-pombola.png>
 Package pdftex.def Info: images/they-work-for-you-implementation-open-source-pombola.png  used on input line 3.
 (pdftex.def)             Requested size: 295.4059pt x 98.46863pt.
-) [26 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-open-source-pombola.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-6.tex
-<images/they-work-for-you-implementation-open-source-github.png, id=509, 1066.98625pt x 512.91624pt>
+) [25 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-open-source-pombola.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-6.tex
+<images/they-work-for-you-implementation-open-source-github.png, id=460, 1066.98625pt x 512.91624pt>
 File: images/they-work-for-you-implementation-open-source-github.png Graphic file (type png)
 <use images/they-work-for-you-implementation-open-source-github.png>
 Package pdftex.def Info: images/they-work-for-you-implementation-open-source-github.png  used on input line 3.
 (pdftex.def)             Requested size: 320.09834pt x 153.87605pt.
-) [27 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-open-source-github.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-7.tex
-<images/they-work-for-you-challenges-finance.png, id=515, 1027.84pt x 142.5325pt>
+) [26 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-implementation-open-source-github.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-7.tex
+<images/they-work-for-you-challenges-finance.png, id=466, 1027.84pt x 142.5325pt>
 File: images/they-work-for-you-challenges-finance.png Graphic file (type png)
 <use images/they-work-for-you-challenges-finance.png>
 Package pdftex.def Info: images/they-work-for-you-challenges-finance.png  used on input line 2.
 (pdftex.def)             Requested size: 308.35437pt x 42.76007pt.
-) [28 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-challenges-finance.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-8.tex
-<images/e-petition-site.png, id=521, 755.82375pt x 514.92375pt>
+) [27 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-challenges-finance.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-8.tex
+<images/e-petition-site.png, id=472, 755.82375pt x 514.92375pt>
 File: images/e-petition-site.png Graphic file (type png)
 <use images/e-petition-site.png>
 Package pdftex.def Info: images/e-petition-site.png  used on input line 3.
 (pdftex.def)             Requested size: 226.74887pt x 154.4783pt.
-) [29 </Users/joestrachan/Documents/code/civics/civic-essay/images/e-petition-site.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-9.tex
-<images/they-work-for-you-challenges-google-analytics.png, id=527, 1268.74pt x 434.62375pt>
+) [28 </Users/joestrachan/Documents/code/civics/civic-essay/images/e-petition-site.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-9.tex
+<images/they-work-for-you-challenges-google-analytics.png, id=478, 1268.74pt x 434.62375pt>
 File: images/they-work-for-you-challenges-google-analytics.png Graphic file (type png)
 <use images/they-work-for-you-challenges-google-analytics.png>
 Package pdftex.def Info: images/they-work-for-you-challenges-google-analytics.png  used on input line 3.
 (pdftex.def)             Requested size: 317.18422pt x 108.65567pt.
-) [30 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-challenges-google-analytics.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-10.tex
-<images/they-work-for-you-ian-murray.png, id=533, 1042.89626pt x 608.2725pt>
+) [29 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-challenges-google-analytics.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-10.tex
+<images/they-work-for-you-ian-murray.png, id=484, 1042.89626pt x 608.2725pt>
 File: images/they-work-for-you-ian-murray.png Graphic file (type png)
 <use images/they-work-for-you-ian-murray.png>
 Package pdftex.def Info: images/they-work-for-you-ian-murray.png  used on input line 3.
 (pdftex.def)             Requested size: 312.87129pt x 182.48315pt.
-) [31 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-ian-murray.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-11.tex
-<images/they-work-for-you-numerology.png, id=540, 868.24374pt x 587.19376pt>
+) [30 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-ian-murray.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-11.tex
+<images/they-work-for-you-numerology.png, id=490, 868.24374pt x 587.19376pt>
 File: images/they-work-for-you-numerology.png Graphic file (type png)
 <use images/they-work-for-you-numerology.png>
 Package pdftex.def Info: images/they-work-for-you-numerology.png  used on input line 3.
 (pdftex.def)             Requested size: 260.47513pt x 176.15948pt.
-) [32 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-numerology.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-12.tex
-<images/taxonomy-sifry.png, id=546, 867.24pt x 498.86375pt>
+) [31 </Users/joestrachan/Documents/code/civics/civic-essay/images/they-work-for-you-numerology.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-12.tex
+<images/taxonomy-sifry.png, id=497, 867.24pt x 498.86375pt>
 File: images/taxonomy-sifry.png Graphic file (type png)
 <use images/taxonomy-sifry.png>
 Package pdftex.def Info: images/taxonomy-sifry.png  used on input line 3.
@@ -583,8 +579,8 @@ Overfull \hbox (1.88986pt too wide) in paragraph at lines 3--4
  [][] 
  []
 
-) [33 </Users/joestrachan/Documents/code/civics/civic-essay/images/taxonomy-sifry.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-13.tex
-<images/taxonomy-pipeline.png, id=552, 1185.42876pt x 143.53625pt>
+) [32 </Users/joestrachan/Documents/code/civics/civic-essay/images/taxonomy-sifry.png>] (/Users/joestrachan/Documents/code/civics/civic-essay/sections/figures/figure-13.tex
+<images/taxonomy-pipeline.png, id=503, 1185.42876pt x 143.53625pt>
 File: images/taxonomy-pipeline.png Graphic file (type png)
 <use images/taxonomy-pipeline.png>
 Package pdftex.def Info: images/taxonomy-pipeline.png  used on input line 3.
@@ -595,29 +591,29 @@ Overfull \hbox (10.63136pt too wide) in paragraph at lines 3--4
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
- [34 </Users/joestrachan/Documents/code/civics/civic-essay/images/taxonomy-pipeline.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
+ [33 </Users/joestrachan/Documents/code/civics/civic-essay/images/taxonomy-pipeline.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
  (/Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
 Package rerunfilecheck Info: File `civic_tech_and_they_work_for_you.out' has not changed.
-(rerunfilecheck)             Checksum: 442B38C6B20799E3E155A52A008BA955;2019.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
+(rerunfilecheck)             Checksum: BB2D03866C0F82211C2538C439F04533;1963.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 7061 strings out of 492649
- 114325 string characters out of 6129622
- 209509 words of memory out of 5000000
- 10540 multiletter control sequences out of 15000+600000
+ 7050 strings out of 492649
+ 113740 string characters out of 6129622
+ 209468 words of memory out of 5000000
+ 10538 multiletter control sequences out of 15000+600000
  9710 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,35p,640b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,35p,640b,437s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on /Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.pdf (34 pages, 4370947 bytes).
+Output written on /Users/joestrachan/Documents/code/civics/civic-essay/civic_tech_and_they_work_for_you.pdf (33 pages, 4364553 bytes).
 PDF statistics:
- 621 PDF objects out of 1000 (max. 8388607)
- 543 compressed objects within 6 object streams
- 124 named destinations out of 1000 (max. 500000)
- 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 496 compressed objects within 5 object streams
+ 121 named destinations out of 1000 (max. 500000)
+ 338 words of extra memory for PDF output out of 10000 (max. 10000000)
 
