@@ -22,18 +22,6 @@
 ``Freedom of information act (1967, us).''
   \url{https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States)}.
 
-\bibitem{lbj}
-``Lyndon b jsonson (us president).''
-  \url{https://en.wikipedia.org/wiki/Lyndon_B._Johnson}.
-
-\bibitem{john-e-moss}
-``John e moss (democratic congressman).''
-  \url{https://en.wikipedia.org/wiki/John_E._Moss}.
-
-\bibitem{foia-requests}
-``Foia requests 2017.''
-  \url{https://www.justice.gov/oip/blog/summary-fiscal-year-2017-annual-foia-reports-published}.
-
 \bibitem{anthony-giddens-consequences-of-modernity}
 ``Anthony giddens, the consequence of modernity.''
   \url{https://www.sup.org/books/title/?id=2664}.
@@ -86,41 +74,6 @@
 \bibitem{github}
 ``Github.'' \url{https://github.com}.
 
-\bibitem{guardian-tom-steinberg}
-``Guardian interview with tom steinberg.''
-  \url{https://www.theguardian.com/technology/2008/oct/23/tom-steinberg-fixmystreet-mysociety}.
-
-\bibitem{alexa-rank}
-``Alexa rank for they work for you.''
-  \url{https://www.alexa.com/siteinfo/theyworkforyou.com}.
-
-\bibitem{micah-sifry-taxonomy}
-``Micah sifry: Taxonomy of civic tech.''
-  \url{http://techpresident.com/news/25261/civic-tech-and-engagement-search-common-language}.
-
-\bibitem{tom-steinberg-civic-power}
-``Tom steinberg: blog post about civic power.''
-  \url{https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/}.
-
-\bibitem{jimmy-wales}
-``Wiki: Jimmy wales.'' \url{https://en.wikipedia.org/wiki/Jimmy_Wales}.
-
-\bibitem{larry-sanger}
-``Wiki: Larry sanger.'' \url{https://en.wikipedia.org/wiki/Larry_Sanger}.
-
-\bibitem{php}
-``Php.'' \url{https://www.php.net/manual/en/intro-whatis.php}.
-
-\bibitem{lynx}
-``Lynx browser.'' \url{https://en.wikipedia.org/wiki/Lynx_(web_browser)}.
-
-\bibitem{browser-history}
-``Browser history.''
-  \url{https://crossbrowsertesting.com/blog/test-automation/history-of-web-browsers/}.
-
-\bibitem{google-analytics}
-``Google analytics.'' \url{https://en.wikipedia.org/wiki/Google_Analytics}.
-
 \bibitem{ian-murray}
 ``Ian murray.''
   \url{https://en.wikipedia.org/wiki/Ian_Murray_(Scottish_politician)}.
@@ -135,5 +88,56 @@
 \bibitem{ian-murray-this-is-our-story}
 ``This is our story (ian murray).''
   \url{https://www.heartsdirect.co.uk/item/2235/GiftsMerchandise/This-is-our-Story-Ian-Murray-Paperback-Book.html}.
+
+\bibitem{micah-sifry-taxonomy}
+``Micah sifry: Taxonomy of civic tech.''
+  \url{http://techpresident.com/news/25261/civic-tech-and-engagement-search-common-language}.
+
+\bibitem{noveck}
+``Beth simone noveck: A democracy of groups.''
+  \url{https://www.firstmonday.org/ojs/index.php/fm/article/view/1289/1209https://github.com/mysociety}.
+
+\bibitem{tom-steinberg-civic-power}
+``Tom steinberg: blog post about civic power.''
+  \url{https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/}.
+
+\bibitem{jimmy-wales}
+``Wiki: Jimmy wales.'' \url{https://en.wikipedia.org/wiki/Jimmy_Wales}.
+
+\bibitem{larry-sanger}
+``Wiki: Larry sanger.'' \url{https://en.wikipedia.org/wiki/Larry_Sanger}.
+
+\bibitem{php}
+``Php.'' \url{https://www.php.net/manual/en/intro-whatis.php}.
+
+\bibitem{lbj}
+``Lyndon b jsonson (us president).''
+  \url{https://en.wikipedia.org/wiki/Lyndon_B._Johnson}.
+
+\bibitem{john-e-moss}
+``John e moss (democratic congressman).''
+  \url{https://en.wikipedia.org/wiki/John_E._Moss}.
+
+\bibitem{foia-requests}
+``Foia requests 2017.''
+  \url{https://www.justice.gov/oip/blog/summary-fiscal-year-2017-annual-foia-reports-published}.
+
+\bibitem{lynx}
+``Lynx browser.'' \url{https://en.wikipedia.org/wiki/Lynx_(web_browser)}.
+
+\bibitem{browser-history}
+``Browser history.''
+  \url{https://crossbrowsertesting.com/blog/test-automation/history-of-web-browsers/}.
+
+\bibitem{google-analytics}
+``Google analytics.'' \url{https://en.wikipedia.org/wiki/Google_Analytics}.
+
+\bibitem{guardian-tom-steinberg}
+``Guardian interview with tom steinberg.''
+  \url{https://www.theguardian.com/technology/2008/oct/23/tom-steinberg-fixmystreet-mysociety}.
+
+\bibitem{alexa-rank}
+``Alexa rank for they work for you.''
+  \url{https://www.alexa.com/siteinfo/theyworkforyou.com}.
 
 \end{thebibliography}
