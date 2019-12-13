@@ -33,4 +33,4 @@
 \contentsline {subsection}{D. Analytics}{19}{section*.32}
 \contentsline {subsection}{E. Finance}{20}{section*.33}
 \contentsline {subsection}{F. Users}{21}{section*.34}
-\contentsline {subsection}{7. Figures}{22}{section*.35}
+\contentsline {subsection}{G. Figures}{22}{section*.35}
